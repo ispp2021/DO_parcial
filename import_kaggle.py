@@ -2,7 +2,7 @@ import json
 import zipfile
 import os
 
-api_token={"username":"ismael2024","key":"2c5411503c8206077bdd38ef933181fe"}
+api_token={"username":"ismael2024","key":"d347f4e663cb7b35f399f6ad9189a784"}
 
 with open('C:/Users/ipacompia/.kaggle/kaggle.json','w') as file:
     json.dump(api_token,file)
